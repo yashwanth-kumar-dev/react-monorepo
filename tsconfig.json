@@ -1,0 +1,22 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compileOnSave": false,
+  "files": [],
+  "references": [
+    {
+      "path": "./apps/inventory-e2e"
+    },
+    {
+      "path": "./apps/inventory"
+    },
+    {
+      "path": "./libs/shared/saltDS"
+    },
+    {
+      "path": "./apps/host-e2e"
+    },
+    {
+      "path": "./apps/host"
+    }
+  ]
+}
