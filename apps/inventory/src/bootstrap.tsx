@@ -4,6 +4,7 @@ import App from './app/app';
 import { SaltProvider } from '@salt-ds/core';
 // Import theme CSS
 import '@salt-ds/theme/index.css';
+//fonts
 import '@fontsource/open-sans/300.css';
 import '@fontsource/open-sans/300-italic.css';
 import '@fontsource/open-sans/400.css';
